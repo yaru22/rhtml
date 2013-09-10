@@ -19,7 +19,7 @@ var minHTML = rhtml('./jquery.js');
 console.log(minHTML);
 ```
 
-Uses the same resolution algorithm as require for maximum simplicity.  Built on top of [rfile](https://github.com/ForbesLindesay/rfile).
+Uses the same resolution algorithm as require for maximum simplicity.  Built on top of [rfile](https://github.com/ForbesLindesay/rfile) and [html-minifier](https://github.com/kangax/html-minifier).
 
 ## License
 
