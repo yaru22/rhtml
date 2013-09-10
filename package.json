@@ -1,0 +1,32 @@
+{
+  "name": "rhtml",
+  "description": "'Require' minified HTML as a string",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Brian Park <yaru22@gmail.com>",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yaru22/rhtml.git"
+  },
+  "keywords": [
+    "require",
+    "file",
+    "text",
+    "relative",
+    "module",
+    "html",
+    "minify",
+    "compress",
+    "string"
+  ],
+  "dependencies": {
+    "html-minifier": "~0.5.4",
+    "rfile": "~1.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.12.1"
+  }
+}
