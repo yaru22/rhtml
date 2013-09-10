@@ -1,7 +1,7 @@
 var minify = require('html-minifier').minify;
 var rfile = require('rfile');
 
-module.exports = function (path, rhtmlOptions, rfileOptions) {
+module.exports = function (path, rfileOptions, rhtmlOptions) {
   rhtmlOptions = rhtmlOptions || {
     removeComments: true,
     collapseWhitespace: true
