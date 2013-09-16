@@ -15,7 +15,7 @@ npm install rhtml
 
 ```javascript
 var rhtml = require('rhtml');
-var minHTML = rhtml('./jquery.js');
+var minHTML = rhtml('./somepage.html');
 console.log(minHTML);
 ```
 
