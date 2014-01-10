@@ -1,4 +1,4 @@
-# rhtml
+# rhtml [![Analytics](https://ga-beacon.appspot.com/UA-2694988-7/rhtml/readme?pixel)](https://github.com/yaru22/rhtml)
 
 [![Build Status](https://secure.travis-ci.org/yaru22/rhtml.png)](http://travis-ci.org/yaru22/rhtml)
 [![Dependency Status](https://gemnasium.com/yaru22/rhtml.png)](https://gemnasium.com/yaru22/rhtml)
