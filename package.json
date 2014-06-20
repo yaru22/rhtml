@@ -1,7 +1,7 @@
 {
   "name": "rhtml",
   "description": "'Require' minified HTML as a string",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "MIT",
   "author": "Brian Park <yaru22@gmail.com>",
   "scripts": {
@@ -23,7 +23,7 @@
     "string"
   ],
   "dependencies": {
-    "html-minifier": "~0.5.4",
+    "html-minifier": "~0.6.2",
     "rfile": "~1.0"
   },
   "devDependencies": {

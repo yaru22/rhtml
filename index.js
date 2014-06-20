@@ -1,4 +1,4 @@
-var minify = require('./node_modules/html-minifier/src/htmlminifier').minify;
+var minify = require('html-minifier').minify;
 var rfile = require('rfile');
 
 module.exports = function (path, rfileOptions, rhtmlOptions) {
